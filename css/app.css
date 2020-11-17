@@ -1,0 +1,22 @@
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+#btn-new-name {
+    max-width: 15rem;
+}
+
+#txt-name:hover {
+    cursor: copy;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
