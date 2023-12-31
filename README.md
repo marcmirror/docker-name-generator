@@ -1,3 +1,5 @@
+# This is a read-only mirror of the git repo at https://codeberg.org/marc/docker-name-generator
+
 # Docker Name Generator
 
 A simple, zero dependency, client-side web app for generating random Docker names like `modest_einstein`, `flamboyant_margulis`, 
